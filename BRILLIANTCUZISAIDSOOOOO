@@ -5524,7 +5524,7 @@ local function makeUI()
 
     DescriptionTab:Paragraph({
         Title = "What the AI does",
-        Desc = "The analyzer reads the current chess position, studies legal possibilities and returns a move it considers best. The different APIs are different analysis engines with different ways of handling the same position. This tab explains their playing behavior without exposing their internal code.",
+        Desc = "The analyzer reads the current chess position, studies legal possibilities and returns a move it considers best. The different APIs are different analysis engines with different ways of handling the same position. This tab explains their playing behavior.",
         Icon = "scan-search",
     })
 
