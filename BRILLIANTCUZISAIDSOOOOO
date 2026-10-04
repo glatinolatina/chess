@@ -41,8 +41,8 @@ local API_URLS = {
     ["Zyrqon"] = "LOCAL",
     ["Zyrqon Nova"] = "https://raw.githubusercontent.com/jalokol/Grav/refs/heads/main/Nova",
     ["Lith"] = "https://raw.githubusercontent.com/jalokol/Grav/refs/heads/main/Lith",
-    ["Null"] = "https://raw.githubusercontent.com/Methions/Fudge/refs/heads/main/Fable",
-    ["Muse"] = "https://raw.githubusercontent.com/jalokol/Grav/refs/heads/main/Null",
+    ["Null"] = "https://raw.githubusercontent.com/jalokol/Grav/refs/heads/main/Null",
+    ["Muse"] = "https://raw.githubusercontent.com/jalokol/Grav/refs/heads/main/Muse",
 }
 
 local CurrentKey = DEFAULT_KEY
